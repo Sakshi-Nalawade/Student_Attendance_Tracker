@@ -7,6 +7,3 @@ def get_connection():
         password="Sakshi@123", 
         database="Student"
     )
-
-
-# comment
